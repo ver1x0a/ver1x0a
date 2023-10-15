@@ -1,6 +1,6 @@
 - 👋 Hi, I’m 7ext.
 - 👀 Interested in Info-Sponging. 
-- 🌱 I’m currently learning; at a slow, hopefully stedy, pace. 
+- 🌱 I’m currently learning; at a slow, hopefully steady, pace. 
 - 📫 How to reach me ... how indeed. 
 
 <!---
